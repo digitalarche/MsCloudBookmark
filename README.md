@@ -7,6 +7,9 @@ Microsoft Azure
 Version d’évaluation de Microsoft Azure
 http://azure.microsoft.com/fr-fr/pricing/free-trial/
 
+Azure Services Reference Map
+https://nnmer.github.io/azure-services-map/dist/
+
 Les services d’Azure présentés comme une table périodique des éléments
 http://www.concurrency.com/landing/azure-periodic-table
 
