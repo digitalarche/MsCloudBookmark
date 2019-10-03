@@ -115,9 +115,6 @@ http://azure.microsoft.com/en-us/pricing/calculator/
 Azure Price Calculator (intéressant pour du calcul bulk de plusieurs VM)
 https://azprice.info/ (merci à Florent Point pour le lien)
 
-Azure VM Chooser – pour trouver la VM à votre taille. Inclus les tarifications et type de contrat (Pay as you go, Reserved Instances..)
-https://aka.ms/vmchooser
-
 Microsoft Azure Total Cost of Ownership (TCO) Calculator
 http://aka.ms/azure-tco-calculator
 
@@ -330,10 +327,9 @@ http://azureinteractives.azurewebsites.net/AzureSecurity/default.html
 
 — Azure et réseaux —
 
-Microsoft Azure Datacenter IP Ranges
-http://www.microsoft.com/en-us/download/details.aspx?id=41653
+Microsoft Azure Datacenter IP Ranges & Services Tags https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519
 
-Azure Range : outil Web pour déterminer les plage IP de telle ou telle région Azure
+Azure Range : outil Web pour déterminer les plages IP de telle ou telle région Azure
 http://iprange.omartin2010.com
 
 Site Recovery service endpoint IP addresses (XML file)
@@ -361,11 +357,12 @@ URL et Services associés
 *.search.windows.net ==> Azure Search
 *.azureedge.net ==> Azure CDN Standard Verizon
 *.azure-api.net ==> Azure API Management
-https://dev.azure.com/* ==> Azure DevOps
+dev.azure.com/* ==> Azure DevOps
 login.microsoftonline.com ==> authorization & authentication
 *.servicebus.windows.net ==> Service Bus
 *.azurecr.io ==> Azure Container Registry
 *.azmk8s.io ==> Azure Kubernetes Service
+*.bastion.azure.com ==> Azure Bastion
 
 — Architectures de référence —
 
@@ -395,6 +392,14 @@ http://status.manage.microsoft.com/StatusPage/ServiceDashboard
 
 Portail Intune pour l’éducation (Merci à JP)
 https://intuneeducation.portal.azure.com
+
+— Azure DevOps —
+
+Azure Devops portal
+https://dev.azure.com
+
+Azure DevOps Status page
+https://status.dev.azure.com/
 
 
 Office 365
