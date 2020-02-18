@@ -369,6 +369,9 @@ login.microsoftonline.com ==> authorization & authentication
 Azure Interactive Cloud Pattern to solve design problems
 http://azureinteractives.azurewebsites.net/CloudDesignPatterns/default.html
 
+An great online app to create Azure architecture diagrams (if you don’t have Visio)
+https://github.com/cloudskew/cloudskew/blob/master/readme.md
+
 — Intelligence Artificielle —
 Language Understanding Intelligence Service (LUIS)
 https://www.luis.ai/home
