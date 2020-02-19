@@ -1,61 +1,32 @@
-# AzureTips1 
+# AzureTips For WebAppService and Docker
+
+Debugging
+During the research I used Kudu a lot for debugging. Kudu is not a security tool, but it is indeed very useful debugging tool.
+
+For each Azure web app, which may contain a single function or more, there is a corresponding Kudu website to debug and manage the functions. Kudu was developed by Microsoft and it allows debugging of both Windows and Linux based functions. It is accessed by browsing https://*.scm.azurewebsites.net where the wildcard is your web app name.
+
+With Kudu, you can download Docker logs, browse your home directory files (the shared directory), see your function Git endpoint and much more. Kudu functionality varies between Windows and Linux environment, as the deployment and features of Azure Functions also varies when changing operating system.
+
+Most of Kudu’s functionality is exported using REST API.
+
+# AzureTips 
 
 And the source on GitHub here: 
 https://github.com/Microsoft/AzureTipsAndTricks
 https://www.michaelcrump.net/azure-tips-and-tricks-sorted-list/
 You can find them as a browsable UI here: http://azuredev.tips
 
-# AzureTips2 - How to get to know a new Azure Service?
-
-Product Page: 
-https://azure.microsoft.com/en-us/services/application-gateway/
-Docs: 
-https://docs.microsoft.com/en-us/azure/application-gateway/
-FAQ: 
-https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-faq
-Updates: 
-https://azure.microsoft.com/en-us/updates/?product=application-gateway
-Pricing: 
-https://azure.microsoft.com/en-us/pricing/details/application-gateway/
-Limits: 
-https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-waf-configuration
-SLA: 
-https://azure.microsoft.com/en-us/support/legal/sla/application-gateway/v1_2/
-Samples: 
-https://azure.microsoft.com/en-us/resources/samples/
-Videos: 
-https://azure.microsoft.com/en-us/resources/videos/index/
-Let’s take the example of the “Azure Application Gateway”. I will show you a couple of artifacts that exist for most of the Azure services but usually are scattered around the internet. Knowing that they exist and what they are helps you look for the information you need. I will use the application gateway as an example, but you can of course use the same idea for any other service.
+# AzureTips - How to know a new Service ?
 
 A good point to start is the Azure Service Catalog: 
-https://azure.microsoft.com/en-us/services/
+  https://azure.microsoft.com/en-us/services/
 
-If you look for your service (e.g. application gatewa) in the catalog, it will take you to the Product Page: 
-https://azure.microsoft.com/en-us/services/application-gateway/
+Samples: 
+  https://azure.microsoft.com/en-us/resources/samples/
 
-The product page provides you with an overview about the service and its capabilities. Once you are familiar with the basics, it’s time to move on to the Documentation Page: 
-https://docs.microsoft.com/en-us/azure/application-gateway/
-
-The docs page introduces you deeper to the product. But, I am sure that you will have a lot of questions. Did you know that most of the Azure Services have their own Frequently Asked Questions (FAQ) page? I am sure that it contains most of the questions that you might have. Let’s take a look: 
-https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-faq
-
-The FAQ pages are often very exhaustive. They are ideal to search for keywords. Another very interesting page is the Azure Updates page. Azure updates is the place to find all the release notes about the Azure services. Did you know that you can filter by service type? Lets take a look at the updates to Application Gateway: 
-https://azure.microsoft.com/en-us/updates/?product=application-gateway
-
-This gives you a great idea of what has been released recently, whats in development and in general, what the hot topics for a technology are. Of course, sooner or later, pricing will be an issue. All of the services have their own Pricing Page: 
-https://azure.microsoft.com/en-us/pricing/details/application-gateway/ 
-
-It could be that the limitations of the service are essential as well. Very often, there is a Limits Page: 
-https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-waf-configuration
-
-The limits page shows restrictions and technical limitations. When you start speaking to your operations people, the Service Level Agreement (SLA) page could become interesting: 
-https://azure.microsoft.com/en-us/support/legal/sla/application-gateway/v1_2/
-
-Now that you know the SLAs, it could be the time to start working on it. Let’s have a look at the Azure Samples Page: 
-https://azure.microsoft.com/en-us/resources/samples/ 
-
-Maybe you are looking for videos as well? Did you know that there is an Azure Video Portal where you can filter for a service type? 
-https://azure.microsoft.com/en-us/resources/videos/index/
+Videos: 
+  https://azure.microsoft.com/en-us/resources/videos/index/
+Let’s take the example of the “Azure Application Gateway”. I will show you a couple of artifacts that exist for most of the Azure services but usually are scattered around the internet. Knowing that they exist and what they are helps you look for the information you need. I will use the application gateway as an example, but you can of course use the same idea for any other service.
 
 
 # AzureBookmark
