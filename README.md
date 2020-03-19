@@ -310,34 +310,34 @@ http://iprange.omartin2010.com
 Site Recovery service endpoint IP addresses (XML file)
 https://aka.ms/site-recovery-public-ips
 
-URL et Services associés&nbsp;
-*.core.windows.net –> Stockage Azure&nbsp;
-*.cloudapp.net –> Cloud Service, VM&nbsp;
-*.msapproxy.net -> Azure AD Application Proxy&nbsp;
-*.trafficmanager.net -> Azure Traffic Manager&nbsp;
-*.onmicrosoft.com -> Identité, Azure AD&nbsp;
-*.azurewebsites.net -> Sites Web&nbsp;
-*.azure.com -> Azure Portal&nbsp;
-*.windowsazure.com -> Azure Portal [Classic], Marketplace d’Azure&nbsp;
-*.database.windows.net -> SQL Database&nbsp;
-*.visualstudio.com -> Visual Studio Online&nbsp;
-*.policykeyservice.dc.ad.msft.net Azure –> Azure Cloud App Discovery&nbsp;
-*.hypervrecoverymanager.windowsazure.com –> Azure Site Recovery&nbsp;
-*.backup.windowsazure.com –> Azure Backup&nbsp;
-*.accesscontrol.windows.net&nbsp;
-*.mms.microsoft.com –> Azure Logs Analytics (OMS)&nbsp;
-*.vault.azure.net –> Azure Key Vault&nbsp;
-*.azurecr.io –> Azure Registry&nbsp;
-*.redis.cache.windows.net ==> Cache Redis Azure&nbsp;
-*.search.windows.net ==> Azure Search&nbsp;
-*.azureedge.net ==> Azure CDN Standard Verizon&nbsp;
-*.azure-api.net ==> Azure API Management&nbsp;
-dev.azure.com/* ==> Azure DevOps&nbsp;
-login.microsoftonline.com ==> authorization & authentication&nbsp;
-*.servicebus.windows.net ==> Service Bus&nbsp;
-*.azurecr.io ==> Azure Container Registry&nbsp;
-*.azmk8s.io ==> Azure Kubernetes Service&nbsp;
-*.bastion.azure.com ==> Azure Bastion&nbsp;
+  URL et Services associés<br/>
+*.core.windows.net –> Stockage Azure<br/>
+*.cloudapp.net –> Cloud Service, VM<br/>
+*.msapproxy.net -> Azure AD Application Proxy<br/>
+*.trafficmanager.net -> Azure Traffic Manager<br/>
+*.onmicrosoft.com -> Identité, Azure AD<br/>
+*.azurewebsites.net -> Sites Web<br/>
+*.azure.com -> Azure Portal<br/>
+*.windowsazure.com -> Azure Portal [Classic], Marketplace d’Azure<br/>
+*.database.windows.net -> SQL Database<br/>
+*.visualstudio.com -> Visual Studio Online<br/>
+*.policykeyservice.dc.ad.msft.net Azure –> Azure Cloud App Discovery<br/>
+*.hypervrecoverymanager.windowsazure.com –> Azure Site Recovery<br/>
+*.backup.windowsazure.com –> Azure Backup<br/>
+*.accesscontrol.windows.net<br/>
+*.mms.microsoft.com –> Azure Logs Analytics (OMS)<br/>
+*.vault.azure.net –> Azure Key Vault<br/>
+*.azurecr.io –> Azure Registry<br/>
+*.redis.cache.windows.net ==> Cache Redis Azure<br/>
+*.search.windows.net ==> Azure Search<br/>
+*.azureedge.net ==> Azure CDN Standard Verizon<br/>
+*.azure-api.net ==> Azure API Management<br/>
+dev.azure.com/* ==> Azure DevOps<br/>
+login.microsoftonline.com ==> authorization & authentication<br/>
+*.servicebus.windows.net ==> Service Bus<br/>
+*.azurecr.io ==> Azure Container Registry<br/>
+*.azmk8s.io ==> Azure Kubernetes Service<br/>
+*.bastion.azure.com ==> Azure Bastion<br/>
 
 **— Architectures de référence —**
 
