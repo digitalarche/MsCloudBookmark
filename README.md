@@ -32,7 +32,7 @@ Let’s take the example of the “Azure Application Gateway”. I will show you
 # AzureBookmark
 All necessary links and tips &amp; tricks on Azure Services
 
-Microsoft Azure
+**Microsoft Azure**
 
 Version d’évaluation de Microsoft Azure
 http://azure.microsoft.com/fr-fr/pricing/free-trial/
@@ -78,7 +78,7 @@ http://o365datacentermap.azurewebsites.net/
 Correspondance entre les services Microsoft Azure et Amazon Web Services
 https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/
 
-— Combien ça coûte Azure —
+**— Combien ça coûte Azure —**
 
 Calculatrice des coûts Azure
 http://azure.microsoft.com/en-us/pricing/calculator/
@@ -92,7 +92,7 @@ http://aka.ms/azure-tco-calculator
 Azure Usage And Billing Portal
 https://github.com/Microsoft/AzureUsageAndBillingPortal
 
-— Outils d’administrations Azure —
+**— Outils d’administrations Azure —**
 
 Le portail d’administration classic de Microsoft Azure :
 https://manage.windowsazure.com
@@ -113,7 +113,7 @@ How to install and configure Azure PowerShell
 https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/
 
 Note : pour Récupérer la version du module Azure PowerShell, exécuter la commande suivante :
-PS c:\> (Get-Module azure -ListAvailable).Version
+PS c:\> (Get-Module Az -ListAvailable).Version
 
 Azure CLI (client ligne de commande pour Linux, Mac OS X et Windows)
 https://azure.microsoft.com/en-gb/documentation/articles/xplat-cli-install/
@@ -121,18 +121,24 @@ https://azure.microsoft.com/en-gb/documentation/articles/xplat-cli-install/
 Azure CLI 2.0
 https://github.com/Azure/azure-cli
 
-Equivalence entre syntaxe Azure CLI et Azure CLI 2.0 : https://github.com/Azure/azure-cli/blob/master/doc/azure2az_commands.rst
+Equivalence entre syntaxe Azure CLI et Azure CLI 2.0 : 
+https://github.com/Azure/azure-cli/blob/master/doc/azure2az_commands.rst
+
 Install Azure CLI 2.0
 https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
+
 Azure Cloud Shell bash
 https://shell.azure.com/bash
 
 Azure Cloud Shell PowerShell
 https://shell.azure.com/powershell
 
-Les outils disponibles dans la console Azure Cloud Shell : https://docs.microsoft.com/en-us/azure/cloud-shell/features#tools
+Les outils disponibles dans la console Azure Cloud Shell : 
+https://docs.microsoft.com/en-us/azure/cloud-shell/features#tools
 
-Configurer un stockage persistant pour la console Azure Cloud Shell : https://docs.microsoft.com/en-us/azure/cloud-shell/persisting-shell-storage
+Configurer un stockage persistant pour la console Azure Cloud Shell : 
+https://docs.microsoft.com/en-us/azure/cloud-shell/persisting-shell-storage
+
 Windows Azure AD PowerShell module (version 64 bits)
 http://go.microsoft.com/fwlink/p/?linkid=236297
 
@@ -145,7 +151,7 @@ https://itunes.apple.com/us/app/microsoft-azure/id1219013620?ls=1&mt=8
 Azure app pour Android
 https://play.google.com/store/apps/details?id=com.microsoft.azure
 
-— Azure Resource Manager —
+**— Azure Resource Manager —**
 
 Azure Resource Explorer (Preview)
 https://resources.azure.com
@@ -167,7 +173,7 @@ https://github.com/Azure/migAz
 Azure Migrate : outil et service de migration vers Azure
 https://docs.microsoft.com/en-us/azure/migrate/
 
-— Terraform et Azure —
+**— Terraform et Azure —**
 
 Azure Provider
 https://www.terraform.io/docs/providers/azurerm/
@@ -175,7 +181,7 @@ https://www.terraform.io/docs/providers/azurerm/
 Github provider Terraform Azurerm
 https://github.com/terraform-providers/terraform-provider-azurerm
 
-— Surveillance d’Azure & OMS —
+**— Surveillance d’Azure & OMS —**
 
 Etat des services Azure
 http://status.azure.com
@@ -204,15 +210,13 @@ http://oms-calculator-webapp.azurewebsites.net/home
 La bible du language de requêtes d’Azure Log Analytic (OMS) : Azure Log Analytics Query Language
 https://docs.loganalytics.io/index
 
-— Connexion au stockage Azure —
+**— Connexion au stockage Azure —**
 
 Microsoft Azure Storage Explorer
 http://storageexplorer.com/
 
 Azure Explorer – a free Microsoft Azure storage tool
 http://www.red-gate.com/products/azure-development/azure-explorer/
-
-CloudXplorer v1 – Free Download http://clumsyleaf.com/products/cloudxplorer
 
 CloudBerry Explorer for Microsoft Azure Storage: Freeware Client
 http://www.cloudberrylab.com/free-microsoft-azure-explorer.aspx
@@ -227,7 +231,7 @@ Pour Linux : https://aka.ms/downloadazcopyprlinux
 Troubleshooting tool for Azure Files mounting errors on Windows
 https://gallery.technet.microsoft.com/Troubleshooting-tool-for-a9fa1fe5
 
-— Identité et Azure Active Directory —
+**— Identité et Azure Active Directory —**
 
 Assistant de connexion Microsoft Online Services
 http://www.microsoft.com/fr-fr/download/details.aspx?id=41950
@@ -271,7 +275,7 @@ http://passwordreset.microsoftonline.com
 Microsoft AppSource : find the right SaaS application for your business
 https://appsource.microsoft.com/en-us/
 
-— Capacity Planning —
+**— Capacity Planning —**
 
 Azure Site Recovery Capacity Planner
 http://aka.ms/asr-capacity-planner-excel
@@ -285,7 +289,7 @@ https://gallery.technet.microsoft.com/Capacity-planner-for-Azure-de6f1457
 Azure DocumentDB – Estimate Request Units and Data Storage
 https://www.documentdb.com/capacityplanner
 
-— Azure Security —
+**— Azure Security —**
 
 Azure Penetration Security Form : formulaire à remplir avant de faire des tests de pénétration sur des workloads exécutés sur Azure
 https://security-forms.azure.com/penetration-testing/terms
@@ -296,7 +300,7 @@ https://gallery.technet.microsoft.com/Azure-PCI-DSS-Responsibilit-02d4b4b2
 Azure Interactive – Security & operation management
 http://azureinteractives.azurewebsites.net/AzureSecurity/default.html
 
-— Azure et réseaux —
+**— Azure et réseaux —**
 
 Microsoft Azure Datacenter IP Ranges & Services Tags https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519
 
@@ -306,36 +310,36 @@ http://iprange.omartin2010.com
 Site Recovery service endpoint IP addresses (XML file)
 https://aka.ms/site-recovery-public-ips
 
-URL et Services associés
-*.core.windows.net –> Stockage Azure
-*.cloudapp.net –> Cloud Service, VM
-*.msapproxy.net -> Azure AD Application Proxy
-*.trafficmanager.net -> Azure Traffic Manager
-*.onmicrosoft.com -> Identité, Azure AD
-*.azurewebsites.net -> Sites Web
-*.azure.com -> Azure Portal
-*.windowsazure.com -> Azure Portal [Classic], Marketplace d’Azure
-*.database.windows.net -> SQL Database
-*.visualstudio.com -> Visual Studio Online
-*.policykeyservice.dc.ad.msft.net Azure –> Azure Cloud App Discovery
-*.hypervrecoverymanager.windowsazure.com –> Azure Site Recovery
-*.backup.windowsazure.com –> Azure Backup
-*.accesscontrol.windows.net
-*.mms.microsoft.com –> Azure Logs Analytics (OMS)
-*.vault.azure.net –> Azure Key Vault
-*.azurecr.io –> Azure Registry
-*.redis.cache.windows.net ==> Cache Redis Azure
-*.search.windows.net ==> Azure Search
-*.azureedge.net ==> Azure CDN Standard Verizon
-*.azure-api.net ==> Azure API Management
-dev.azure.com/* ==> Azure DevOps
-login.microsoftonline.com ==> authorization & authentication
-*.servicebus.windows.net ==> Service Bus
-*.azurecr.io ==> Azure Container Registry
-*.azmk8s.io ==> Azure Kubernetes Service
-*.bastion.azure.com ==> Azure Bastion
+URL et Services associés&nbsp;
+*.core.windows.net –> Stockage Azure&nbsp;
+*.cloudapp.net –> Cloud Service, VM&nbsp;
+*.msapproxy.net -> Azure AD Application Proxy&nbsp;
+*.trafficmanager.net -> Azure Traffic Manager&nbsp;
+*.onmicrosoft.com -> Identité, Azure AD&nbsp;
+*.azurewebsites.net -> Sites Web&nbsp;
+*.azure.com -> Azure Portal&nbsp;
+*.windowsazure.com -> Azure Portal [Classic], Marketplace d’Azure&nbsp;
+*.database.windows.net -> SQL Database&nbsp;
+*.visualstudio.com -> Visual Studio Online&nbsp;
+*.policykeyservice.dc.ad.msft.net Azure –> Azure Cloud App Discovery&nbsp;
+*.hypervrecoverymanager.windowsazure.com –> Azure Site Recovery&nbsp;
+*.backup.windowsazure.com –> Azure Backup&nbsp;
+*.accesscontrol.windows.net&nbsp;
+*.mms.microsoft.com –> Azure Logs Analytics (OMS)&nbsp;
+*.vault.azure.net –> Azure Key Vault&nbsp;
+*.azurecr.io –> Azure Registry&nbsp;
+*.redis.cache.windows.net ==> Cache Redis Azure&nbsp;
+*.search.windows.net ==> Azure Search&nbsp;
+*.azureedge.net ==> Azure CDN Standard Verizon&nbsp;
+*.azure-api.net ==> Azure API Management&nbsp;
+dev.azure.com/* ==> Azure DevOps&nbsp;
+login.microsoftonline.com ==> authorization & authentication&nbsp;
+*.servicebus.windows.net ==> Service Bus&nbsp;
+*.azurecr.io ==> Azure Container Registry&nbsp;
+*.azmk8s.io ==> Azure Kubernetes Service&nbsp;
+*.bastion.azure.com ==> Azure Bastion&nbsp;
 
-— Architectures de référence —
+**— Architectures de référence —**
 
 Azure Interactive Cloud Pattern to solve design problems
 http://azureinteractives.azurewebsites.net/CloudDesignPatterns/default.html
@@ -343,14 +347,15 @@ http://azureinteractives.azurewebsites.net/CloudDesignPatterns/default.html
 An great online app to create Azure architecture diagrams (if you don’t have Visio)
 https://github.com/cloudskew/cloudskew/blob/master/readme.md
 
-— Intelligence Artificielle —
+**— Intelligence Artificielle —**
+
 Language Understanding Intelligence Service (LUIS)
 https://www.luis.ai/home
 
 Q&A Maker
 https://www.qnamaker.ai/
 
-Microsoft Intune
+**- Microsoft Intune -**
 
 Version d’évaluation 30 jours de Microsoft Intune :
 http://www.microsoft.com/fr-fr/server-cloud/products/windows-intune/try.aspx
@@ -367,7 +372,7 @@ http://status.manage.microsoft.com/StatusPage/ServiceDashboard
 Portail Intune pour l’éducation (Merci à JP)
 https://intuneeducation.portal.azure.com
 
-— Azure DevOps —
+**— Azure DevOps —**
 
 Azure Devops portal
 https://dev.azure.com
@@ -375,8 +380,7 @@ https://dev.azure.com
 Azure DevOps Status page
 https://status.dev.azure.com/
 
-
-Office 365
+**- Office 365 -**
 
 Version d’évaluation 30 jours d’Office 365 Entreprise E3 :
 http://office.microsoft.com/fr-fr/business/microsoft-office-365-entreprise-e3-FX103030346.aspx
@@ -448,25 +452,25 @@ https://support.office.com/fr-fr/article/URL-et-plages-d-adresses-IP-Office-365-
 IFTTT Microsoft’s Recipes
 https://ifttt.com/p/microsoft/shared
 
-Office 365 Planner (Merci à Flavien)
+Office 365 Planner
 https://tasks.office.com/
 
 Office 365 Advanced Security Management
 *.adallom.com
 
-Assistant Configuration Exchange hybride (Merci à Flavien)
+Assistant Configuration Exchange hybride
 https://configure.office.com/Scenario.aspx?sid=13
 
 Microsoft Stream
 https://stream.microsoft.com
 
-Microsoft Azure Information Protection (Merci à Flavien)
+Microsoft Azure Information Protection
 http://aka.ms/getaip
 
-Centre d’administration OneDrive (Merci à Flavien)
+Centre d’administration OneDrive
 https://admin.onedrive.com
 
-Microsoft School Data Sync (Merci à Flavien)
+Microsoft School Data Sync
 https://sds.microsoft.com/
 
 Microsoft Teams
@@ -475,7 +479,7 @@ https://teams.microsoft.com
 Microsoft Forms
 https://forms.office.com/
 
-PowerBI
+**- PowerBI -**
 
 Portail PowerBI
 https://powerbi.microsoft.com/
@@ -483,7 +487,7 @@ https://powerbi.microsoft.com/
 Support PowerBI – statut des services
 https://powerbi.microsoft.com/fr-fr/support/
 
-Windows 10
+**- Windows 10 -**
 
 Windows Store for Business
 https://businessstore.microsoft.com
@@ -491,10 +495,6 @@ https://businessstore.microsoft.com
 Pour connaître les builds Windows (10, Server, IoT..) de chaque programme (Insider, Preview…)
 http://changewindows.org/
 
-Portail Windows Defender Advanced Threat Protection (Merci à JP)
+Portail Windows Defender Advanced Threat Protection
 http://securitycenter.windows.com
 
-MSDN
-
-Gérer les services d’un abonnement MSDN
-https://msdn.microsoft.com/subscriptions/manage/
