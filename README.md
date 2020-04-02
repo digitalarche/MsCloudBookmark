@@ -2,6 +2,9 @@
 
 ** Click on each MD file to find your happiness ;) Stay Tuned!
 
+An great online app to create Azure architecture diagrams (if you don’t have Visio)
+https://github.com/cloudskew/cloudskew/blob/master/readme.md
+
 ### Quickly URL and Associated Services <br/>
 *.core.windows.net –> Stockage Azure<br/>
 *.cloudapp.net –> Cloud Service, VM<br/>
