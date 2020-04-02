@@ -3,6 +3,9 @@
 Module Azure PowerShell :
 https://github.com/Azure/azure-powershell/releases
 
+PowerShell for Office 365
+http://powershell.office.com/
+
 How to install and configure Azure PowerShell
 https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/
 
