@@ -2,6 +2,10 @@
 
 ** Click on each MD file to find your happiness ;) Stay Tuned!
 
+To find out the Windows version & builds (10, Server, IoT, etc.) 
+For each program (Insider, Preview, etc.)
+http://changewindows.org/
+
 An great online app to create Azure architecture diagrams (if you don’t have Visio)
 https://github.com/cloudskew/cloudskew/blob/master/readme.md
 
