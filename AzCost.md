@@ -1,10 +1,10 @@
-** Combien ça coûte Azure **
+** How much does Azure cost **
 
-Calculatrice des coûts Azure
+Azure cost calculator
 http://azure.microsoft.com/en-us/pricing/calculator/
 
-Azure Price Calculator (intéressant pour du calcul bulk de plusieurs VM)
-https://azprice.info/ (merci à Florent Point pour le lien)
+Azure Price Calculator (interesting for bulk calculation of several VMs)
+https://azprice.info/ 
 
 Microsoft Azure Total Cost of Ownership (TCO) Calculator
 http://aka.ms/azure-tco-calculator
