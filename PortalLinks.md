@@ -7,7 +7,10 @@
 
 https://portal.azure.com
 
-### Preview Portal
+       ### Old Classic Portal (totaly not advised) 
+       https://manage.windowsazure.com
+
+### Preview Portal (Just if you've the authorization)
 
 https://preview.portal.azure.com
 
