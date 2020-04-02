@@ -30,3 +30,7 @@ login.microsoftonline.com ==> authorization & authentication<br/>
 *.azurecr.io ==> Azure Container Registry<br/>
 *.azmk8s.io ==> Azure Kubernetes Service<br/>
 *.bastion.azure.com ==> Azure Bastion<br/>
+
+# AzureTips (Browsable) 
+https://microsoft.github.io/AzureTipsAndTricks/
+
