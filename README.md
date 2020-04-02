@@ -1,4 +1,4 @@
-# All links usefull to be allow manage Microsoft Cloud Ecosystem
+# All to be allow manage Microsoft Cloud Ecosystem
 
 ** Click on each MD file to find your happiness ;) Stay Tuned!
 
