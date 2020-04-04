@@ -2,6 +2,10 @@
 
 ** Click on each MD file to find your happiness ;) Stay Tuned!
 
+### Visual Studio Online
+https://docs.microsoft.com/en-us/visualstudio/online/overview/what-is-vsonline
+https://online.visualstudio.com/
+
 To find out the Windows version & builds (10, Server, IoT, etc.) 
 For each program (Insider, Preview, etc.)
 http://changewindows.org/
