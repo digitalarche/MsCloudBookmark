@@ -3,12 +3,17 @@
 ** Click on each MD file to find your happiness ;) Stay Tuned!
 
 ### Visual Studio Online
-    ** Documentation **
+    Documentation
     https://docs.microsoft.com/en-us/visualstudio/online/overview/what-is-vsonline
-    ** Visual Studio Online VS Code How-to **
-    https://docs.microsoft.com/en-us/visualstudio/online/how-to/vscode
-    ** Goto Login and Start **
+    
+    Visual Studio Online Browser How-to
+    https://docs.microsoft.com/en-us/visualstudio/online/how-to/browser
+    Goto Login and Start in browser
     https://online.visualstudio.com
+
+    Visual Studio Online VS Code How-to VsCode
+    https://docs.microsoft.com/en-us/visualstudio/online/how-to/vscode
+    
 
 To find out the Windows version & builds (10, Server, IoT, etc.) 
 For each program (Insider, Preview, etc.)
