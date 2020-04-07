@@ -1,5 +1,9 @@
 # Bootstrap and OnBorading for Scripting and Management
 
+breaking-change
+https://aka.ms/azps-changewarnings
+https://github.com/Azure/azure-powershell/tree/master/documentation/breaking-changes
+
 Module Azure PowerShell :
 https://github.com/Azure/azure-powershell/releases
 
