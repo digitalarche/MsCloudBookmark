@@ -24,7 +24,7 @@ https://github.com/cloudskew/cloudskew/blob/master/readme.md
 
 ### Quickly URL and Associated Services <br/>
 *.core.windows.net –> Stockage Azure<br/>
-*.cloudapp.azure.com –> Cloud Service VM (ARM) (Classic VM - (ASM) *.cloudapp.(com/net))<br/>
+*.cloudapp.azure.com –> Cloud Service VM (ARM) (Classic VM - (ASM) *.cloudapp.net)<br/>
 *.msapproxy.net -> Azure AD Application Proxy<br/>
 *.trafficmanager.net -> Azure Traffic Manager<br/>
 *.onmicrosoft.com -> Identité, Azure AD<br/>
