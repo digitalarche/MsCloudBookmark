@@ -23,33 +23,37 @@ An great online app to create Azure architecture diagrams (if you don’t have V
 https://github.com/cloudskew/cloudskew/blob/master/readme.md
 
 ### Quickly URL and Associated Services <br/>
-*.core.windows.net –> Stockage Azure<br/>
+*.core.windows.net –> Stockage Azure - Example for Blob: *.blob.core.windows.net<br/>
 *.cloudapp.azure.com –> Cloud Service VM (ARM) (Classic VM - (ASM) *.cloudapp.net)<br/>
 *.msapproxy.net -> Azure AD Application Proxy<br/>
 *.trafficmanager.net -> Azure Traffic Manager<br/>
 *.onmicrosoft.com -> Identité, Azure AD<br/>
 *.azurewebsites.net -> Sites Web<br/>
-*.azure.com -> Azure Portal<br/>
-*.windowsazure.com -> Azure Portal [Classic], Marketplace d’Azure<br/>
+*.azure.com -> Azure Portal: portal.azure.com 
+            -> Azure Portal Preview: ms.portal.azure.com
+    (Depreciated: *.windowsazure.com [Classic ASM], if you've had already a account) manage.windowsazure.com<br/>
+    https://azure.microsoft.com/en-us/updates/azure-portal-updates-for-classic-portal-users/
 *.database.windows.net -> SQL Database<br/>
-*.visualstudio.com -> Visual Studio Online<br/>
 *.policykeyservice.dc.ad.msft.net Azure –> Azure Cloud App Discovery<br/>
 *.hypervrecoverymanager.windowsazure.com –> Azure Site Recovery<br/>
 *.backup.windowsazure.com –> Azure Backup<br/>
 *.accesscontrol.windows.net<br/>
 *.mms.microsoft.com –> Azure Logs Analytics (OMS)<br/>
 *.vault.azure.net –> Azure Key Vault<br/>
-*.azurecr.io –> Azure Registry<br/>
 *.redis.cache.windows.net ==> Cache Redis Azure<br/>
 *.search.windows.net ==> Azure Search<br/>
 *.azureedge.net ==> Azure CDN Standard Verizon<br/>
 *.azure-api.net ==> Azure API Management<br/>
-dev.azure.com/* ==> Azure DevOps<br/>
-login.microsoftonline.com ==> authorization & authentication<br/>
 *.servicebus.windows.net ==> Service Bus<br/>
-*.azurecr.io ==> Azure Container Registry<br/>
+*.azurecr.io ==> Azure Registry<br/>
+*.azurecontainer.io ==> Container Registry<br/>
 *.azmk8s.io ==> Azure Kubernetes Service<br/>
 *.bastion.azure.com ==> Azure Bastion<br/>
+*.azurehdinsight.net ==> Azure HDInsight - Hadoop, Spark, & Kafka Service<br/>
+*.azuredatalakestore.net ==> Microsoft Azure Data Lake Store<br/>
+
+  dev.azure.com/* ==> Azure DevOps<br/>
+  login.microsoftonline.com ==> authorization & authentication<br/>
 
 # AzureTips (Browsable) 
 https://microsoft.github.io/AzureTipsAndTricks/
