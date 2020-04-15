@@ -29,10 +29,10 @@ https://github.com/cloudskew/cloudskew/blob/master/readme.md
 *.trafficmanager.net -> Azure Traffic Manager<br/>
 *.onmicrosoft.com -> Identité, Azure AD<br/>
 *.azurewebsites.net -> Sites Web<br/>
-*.azure.com -> Azure Portal: portal.azure.com 
-            -> Azure Portal Preview: ms.portal.azure.com
+*.azure.com -> Azure Portal: portal.azure.com<br/>
+            -> Azure Portal Preview: ms.portal.azure.com<br/>
     (Depreciated: *.windowsazure.com [Classic ASM], if you've had already a account) manage.windowsazure.com<br/>
-    https://azure.microsoft.com/en-us/updates/azure-portal-updates-for-classic-portal-users/
+    https://azure.microsoft.com/en-us/updates/azure-portal-updates-for-classic-portal-users<br/>
 *.database.windows.net -> SQL Database<br/>
 *.policykeyservice.dc.ad.msft.net Azure –> Azure Cloud App Discovery<br/>
 *.hypervrecoverymanager.windowsazure.com –> Azure Site Recovery<br/>
