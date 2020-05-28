@@ -55,6 +55,8 @@ https://github.com/cloudskew/cloudskew/blob/master/readme.md
   dev.azure.com/* ==> Azure DevOps<br/>
   login.microsoftonline.com ==> authorization & authentication<br/>
 
-# AzureTips (Browsable) 
-https://microsoft.github.io/AzureTipsAndTricks/
+# Azure Tips (Browsable) 
+https://microsoft.github.io/AzureTipsAndTricks/<br/>
+
+About our ads https://choice.microsoft.com<br/>
 
