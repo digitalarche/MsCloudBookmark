@@ -169,6 +169,9 @@ http://aka.ms/getaip
 Azure Devops portal
 https://dev.azure.com/<nameoforganisation>
 
+Azure Devops Satus
+https://status.dev.azure.com/
+
      (Legacy and still alive but soon obselete
      ###  https://aex.dev.azure.com
      ###  Formerly https://app.vssps.visualstudio.com
