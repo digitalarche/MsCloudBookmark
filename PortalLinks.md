@@ -76,9 +76,6 @@ https://tasks.office.com/
 ### Microsoft Forms
 https://forms.office.com/
 
-### Portail Azure RMS (Rights Management Services)
-https://portal.aadrm.com/
-
 ### OneDrive
 https://admin.onedrive.com/
 
