@@ -9,6 +9,14 @@ https://github.com/Azure/azure-powershell/releases
 
 PowerShell for Office 365
 http://powershell.office.com/
+https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-office-365-with-office-365-powershell
+
+  * For Teams : https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-install
+                https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-release-notes
+
+Connect to all Microsoft 365 services in a single Windows PowerShell window
+https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window
+
 
 How to install and configure Azure PowerShell
 https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/
