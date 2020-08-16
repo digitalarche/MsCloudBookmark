@@ -1,4 +1,12 @@
-# Informations sur Microsoft Azure
+# Todo dispatch List bellow
+
+Integrate Azure AD logs with Log Analytics using Azure Monitor: http://aka.ms/AzureADLogAnalytics
+Analyze Azure AD activity logs with Log Analytics, sample queries: https://aka.ms/AzureADLogAnalyticsqueries
+Install and use the Log Analytics views for Azure Active Directory: https://aka.ms/AADLogAnalyticsviews
+
+
+Activate Azure Rights Management Services and Azure Information Protection for your Azure AD
+https://account.activedirectory.windowsazure.com/RmsOnline/Manage.aspx
 
 Version d’évaluation de Microsoft Azure
 http://azure.microsoft.com/fr-fr/pricing/free-trial/
