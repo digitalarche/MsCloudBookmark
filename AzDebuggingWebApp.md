@@ -1,6 +1,5 @@
 
 # For debugging WebApp Service
-
 Kudu is not a security tool, but it is indeed very useful debugging tool.
 
 For each Azure web app, which may contain a single function or more, 
@@ -16,4 +15,5 @@ as the deployment and features of Azure Functions also varies when changing oper
 
 Most of Kudu’s functionality is exported using REST API.
 
-
+# Before make a WebApp check this 
+https://github.com/syntaxc4/microsoftazurewebsitescheatsheet
