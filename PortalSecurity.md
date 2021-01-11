@@ -25,7 +25,8 @@
   *** TIPS: It's here you can to disconnect all devices on your account - (if you loose one your device for example) 
 
 * When you want leave a organisation (a tenant/Directory) about you account connexion: https://myaccount.microsoft.com/organizations</br>
-  *** Becareful you have to wait 1-2 hours for this to be applied and don't forget to logout and login back as well. (Possibly clear your cache and cookie history).
+  *** Becareful you have to wait 1-2 hours for this to be applied and don't forget to logout and login back as well.</br>
+      (Possibly clear your cache and cookie history).
 
 * You want list your Application Licences and Plans: https://portal.office.com/account/?ref=MeControl#subscriptions
 
