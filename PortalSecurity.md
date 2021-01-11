@@ -21,20 +21,20 @@
 * My account for Enterprise Overview: https://myaccount.microsoft.com/
 * My Device List: https://myaccount.microsoft.com/device-list
 
-* My SignIn Method and Default: https://mysignins.microsoft.com/security-info
+* My SignIn Method and Default: https://mysignins.microsoft.com/security-info</br>
   *** TIPS: It's here you can to disconnect all devices on your account - (if you loose one your device for example) 
 
-* When you want leave a organisation (a tenant / Directory) with your account connexion goto: https://myaccount.microsoft.com/organizations
+* When you want leave a organisation (a tenant / Directory) with your account connexion goto:https://myaccount.microsoft.com/organizations</br>
   *** Becareful you have to wait 1-2 hours for this to be applied and don't forget to logout and login back as well. (Possibly clear your cache and cookie history).
 
 * You want list your Application Licences and Plans: https://portal.office.com/account/?ref=MeControl#subscriptions
 
 ### Portals URLs Azure
 
-* Azure Portal: https://portal.azure.com
-* Azure Security Center in Azure Portal
-* Azure Sentinel in Azure Portal (Need to have Log Analytics and the RBAC for the connectors)
-* Azure Monitor
-* Azure AD Security 
-* Azure Data Explorer (With KQL - Kusto Query Language)
-* ARG - Azure Resource Graph (with Azure Graph Explorer)
+* Azure Portal: https://portal.azure.com</br>
+  * Azure Security Center in Azure Portal
+  * Azure Sentinel in Azure Portal (Need to have Log Analytics and the RBAC for the connectors)
+  * Azure Monitor
+  * Azure AD Security 
+  * Azure Data Explorer (With KQL - Kusto Query Language)
+  * ARG - Azure Resource Graph (with Azure Graph Explorer)
