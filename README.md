@@ -56,6 +56,8 @@ https://github.com/cloudskew/cloudskew/blob/master/readme.md
   login.microsoftonline.com ==> authorization & authentication<br/>
 
 # EvalCenter All Microsoft's products to make a LAB<br/>
+https://www.microsoft.com/en-us/evalcenter/
+
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise<br/>
 https://www.microsoft.com/en-us/evalcenter/evaluate-lab-kit/<br/>
 
