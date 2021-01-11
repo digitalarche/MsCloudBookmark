@@ -12,17 +12,26 @@
 * Windows Defender ATP: https://securitycenter.windows.com
 * Windows Defender ATP Other portal (following MCAS Portal): https://portal.atp.azure.com
 
-
-### Portals URLs Azure
-
-* Azure Portal: https://portal.azure.com
-
-* AAD Azure Portal: https://aad.portal.azure.com (AAD, Azure AD Security, Risk*, Conditionnal Access, Password Protection, MFA, etc.)
+* AAD M365 dashboard use Azure Portal link: https://aad.portal.azure.com (AAD, Azure AD Security, Risk*, Conditionnal Access, Password Protection, MFA, etc.)
 * Multi-factor Authentication (MFA): https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx
 
 * Intune is now Microsoft Endpoint Manager: https://endpoint.microsoft.com/#home
 * Intune Tenant Status: https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TenantAdminMenu/tenantStatus
 
+* My account for Enterprise Overview: https://myaccount.microsoft.com/
+* My Device List: https://myaccount.microsoft.com/device-list
+
+* My SignIn Method and Default: https://mysignins.microsoft.com/security-info
+  *** TIPS: It's here you can to disconnect all devices on your account - (if you loose one your device for example) 
+
+* When you want leave a organisation (a tenant / Directory) with your account connexion goto: https://myaccount.microsoft.com/organizations
+  *** Becareful you have to wait 1-2 hours for this to be applied and don't forget to logout and login back as well. (Possibly clear your cache and cookie history).
+
+* You want list your Application Licences and Plans: https://portal.office.com/account/?ref=MeControl#subscriptions
+
+### Portals URLs Azure
+
+* Azure Portal: https://portal.azure.com
 * Azure Security Center in Azure Portal
 * Azure Sentinel in Azure Portal (Need to have Log Analytics and the RBAC for the connectors)
 * Azure Monitor
