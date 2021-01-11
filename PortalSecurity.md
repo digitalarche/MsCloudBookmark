@@ -24,7 +24,7 @@
 * My SignIn Method and Default: https://mysignins.microsoft.com/security-info</br>
   *** TIPS: It's here you can to disconnect all devices on your account - (if you loose one your device for example) 
 
-* When you want leave a organisation (a tenant / Directory) with your account connexion goto:https://myaccount.microsoft.com/organizations</br>
+* When you want leave a organisation (a tenant/Directory) about you account connexion: https://myaccount.microsoft.com/organizations</br>
   *** Becareful you have to wait 1-2 hours for this to be applied and don't forget to logout and login back as well. (Possibly clear your cache and cookie history).
 
 * You want list your Application Licences and Plans: https://portal.office.com/account/?ref=MeControl#subscriptions
