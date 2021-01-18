@@ -7,8 +7,7 @@ Azure Devops portal
 https://dev.azure.com - SignIn with our account you want - becareful for private versus Pro/School</br>
 
 NOTES: If you are a member of multiple tenants and the desired tenant isn't the selected one, close your browser windows and then open a new browser</br>
-and navigate to https://aka.ms/vssignout.
-Close this browser, open a new browser and navigate to https://aex.dev.azure.com/me, and sign-in using the desired tenant.
+and navigate to https://aka.ms/vssignout. Close this browser, open a new browser and navigate to https://aex.dev.azure.com/me, and sign-in using the desired tenant.
 
 Manage all informations of your profile and epecialy the AuthN
 https://app.vssps.visualstudio.com/profile/view
