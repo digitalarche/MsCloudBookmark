@@ -1,6 +1,9 @@
-## This page is in WIP
+# This page is in WIP
 
-# Informations all login's links of Microsoft Service cloud
+## Informations all login's links of Microsoft Service cloud
+
+# Link for retreive all codes errors on AAD
+https://login.microsoftonline.com/error
 
 # Link for Work/Pro
 https://login.microsoftonline.com/
