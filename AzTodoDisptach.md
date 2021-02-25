@@ -1,5 +1,11 @@
 # Todo dispatch List bellow
 
+
+Download All App PBi
+https://powerbi.microsoft.com/fr-fr/downloads  (FR)
+https://powerbi.microsoft.com/en-us/downloads  (US)
+
+
 Integrate Azure AD logs with Log Analytics using Azure Monitor: http://aka.ms/AzureADLogAnalytics
 Analyze Azure AD activity logs with Log Analytics, sample queries: https://aka.ms/AzureADLogAnalyticsqueries
 Install and use the Log Analytics views for Azure Active Directory: https://aka.ms/AADLogAnalyticsviews
