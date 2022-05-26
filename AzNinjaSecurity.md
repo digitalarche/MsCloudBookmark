@@ -1,4 +1,4 @@
-#All the Microsoft Ninja Training I Know About#
+## **All the Microsoft Ninja Training I Know About**
 
 There’s been a big rush of new interest in Microsoft security certifications recently. 
 There’s some fantastic Learn modules (the SC series) created to help those seeking certifications, 
